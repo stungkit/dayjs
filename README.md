@@ -112,10 +112,6 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
   <img width="70" src="https://avatars.githubusercontent.com/u/65305317?v=4">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://opencollective.com/sight-sound" target="_blank">
-  <img width="70" src="https://images.opencollective.com/sight-sound/54f7220/logo/256.png?height=256">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://opencollective.com/filerev" target="_blank">
   <img width="70" src="https://images.opencollective.com/filerev/93a8f05/logo/256.png?height=256" />
 </a>
