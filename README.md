@@ -152,6 +152,10 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
   <img width="70" src="https://avatars.githubusercontent.com/u/89784111?s=96&v=4">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/derekgallardo01" target="_blank">
+  <img width="70" src="https://avatars.githubusercontent.com/u/84940382?v=4">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://onlydoc.com/" target="_blank" alt><img alt="" width="70" src="https://github.com/user-attachments/assets/f5d5938e-48a1-420b-af72-c4012d3941c1" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://unaimytext.com" target="_blank">
